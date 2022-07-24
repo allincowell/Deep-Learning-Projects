@@ -4,11 +4,9 @@ This repo contains the Deep Learning Projects done in my undergrad at IIT-KGP.
 
 ---
 
-The assignment consists of 2 projects:
+The Repo consists of 2 projects. The details of the projects are given below.
 
 ## Project 1
-
-This assignment includes:
 
 * Building and training a Residual Network Model (ResNet)
 * Saving snapshots of your trained model
@@ -17,8 +15,6 @@ This assignment includes:
 * Visualizations using TensorBoardLogger
 
 ## Project 2
-
-This assignment includes:
 
 * Building and training a Vision Transformer Model (ViT)
 * Implementing Shifted Patch Token (SPT) for small datasets.
