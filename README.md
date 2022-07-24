@@ -6,11 +6,6 @@ This repo contains the Deep Learning Projects done in my undergrad at IIT-KGP.
 
 The assignment consists of 2 projects:
 
-* **Project 1**
-* **Project 2**
-
----
-
 ## Project 1
 
 This assignment includes:
@@ -28,6 +23,8 @@ This assignment includes:
 * Building and training a Vision Transformer Model (ViT)
 * Implementing Shifted Patch Token (SPT) for small datasets.
 * Coding of basic blocks and then integration is done.
+
+---
 
 ## Important Instruction
 
